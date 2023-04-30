@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Search Users</title>
+	<title>SEARCH USERS</title>
 </head>
 <body>
 	<h1>Search Users</h1>
