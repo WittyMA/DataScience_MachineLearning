@@ -6,7 +6,8 @@ Example :Vscode ,Eclipse
 2. Start your xamp software 
 and run apache and sql
 4. copy the program files to htdocs folder in the xamp 
-5.open your browser
+5. 
+6.open your browser
 7. Type localhost/seos/index.php
 8. Press Enter
 
