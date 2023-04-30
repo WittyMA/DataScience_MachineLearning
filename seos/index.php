@@ -125,7 +125,7 @@
             </span>
             <span>
                 <h3>Beard booster</h3>
-                <p>GHs 90.00</p>
+                <p>GHs 85.00</p>
             </span>
         </div>
     </main>
