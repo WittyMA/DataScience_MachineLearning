@@ -42,7 +42,7 @@ include_once '../database/database_connection.php';
                 }
                 echo "</ul>";
             } else {
-                echo "<p>No results found.</p>";
+                echo "<p>RESULT NOT FOUND.</p>";
             }
         }
 
