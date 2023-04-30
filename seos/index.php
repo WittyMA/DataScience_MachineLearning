@@ -71,7 +71,7 @@
             </span>
             <span>
                 <h3>Airpod</h3>
-                <p>GHs 200.00</p>
+                <p>GHs 250.00</p>
             </span>
         </div>
 
@@ -103,7 +103,7 @@
             </span>
             <span>
                 <h3>DELL laptop</h3>
-                <p>GHs 900.00</p>
+                <p>GHs 1000.00</p>
             </span>
         </div>
 
