@@ -85,7 +85,7 @@
 				<input type="submit" name="register" value = "REGISTER" >
 			</div>
 		</form>
-		<a href="login.php" class="form-link" >Aready have an account</a>
+		<a href="login.php" class="form-link" >Already have an account</a>
 	</section>
 
 
