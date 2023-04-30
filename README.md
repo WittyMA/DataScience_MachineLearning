@@ -7,8 +7,8 @@ Example :Vscode ,Eclipse
 and run apache and sql
 4. copy the program files to htdocs folder in the xamp 
 5.open your browser
-6. Type localhost/seos/index.php
-7. Press Enter
+7. Type localhost/seos/index.php
+8. Press Enter
 
 
 https://github.com/quandnl/Software-Engineering-Proj-G16.git
