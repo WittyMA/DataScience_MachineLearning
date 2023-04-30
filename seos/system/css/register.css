@@ -1,0 +1,38 @@
+.reg-form{
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: bisque;
+}
+
+.form-item{
+    margin: 10px 0;
+}
+
+.form-item input{
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 200px;
+    border: 1px solid orangered;
+}
+
+.form-item input[type = 'submit']{
+    border: none;
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.form-item input[type = 'submit']:hover{
+    box-shadow: 0 0 20px rgba(255, 68, 0, 0.587);
+}
+
+.form-link{
+    color: orangered;
+}
