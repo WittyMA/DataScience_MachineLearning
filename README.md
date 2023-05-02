@@ -7,8 +7,10 @@ Example :Vscode ,Eclipse
 and run apache and sql
 4. copy the program files to htdocs folder in the xamp 
 5. open your browser
-7. Type localhost/seos/index.php
-8. Press Enter
+6.Type phpmyAdmin and when it opens, click on import from phpmyAdmin
+7. import the file seos_db.sql to phpmyAdmin
+8. Type localhost/seos
+9. Press Enter
 
 
 https://github.com/quandnl/Software-Engineering-Proj-G16.git
